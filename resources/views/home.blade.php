@@ -11,10 +11,10 @@
             <nav>
                 <ul>
                     <li>
-                        <a href="about-us">about us</a>
+                        <a href="/about-us">about us</a>
                     </li>
                     <li>
-                        <a href="shop">shop our product</a>
+                        <a href="/shop">shop our product</a>
                     </li>
                 </ul>
             </nav>
